@@ -3,7 +3,7 @@
 ## PyTorch
 [torch.clamp()](https://pytorch.org/docs/stable/generated/torch.clamp.html)
 
-##Opimizer
+## Opimizer
 [sort of optimizers](https://ganghee-lee.tistory.com/24)
 
 ## CNN
