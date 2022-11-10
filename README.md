@@ -9,3 +9,4 @@
 ## CNN
 
 ## GAN
+[what is GAN?](https://dzone.com/articles/working-principles-of-generative-adversarial-netwo)
